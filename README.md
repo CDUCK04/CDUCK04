@@ -1,0 +1,3 @@
+I am a Computer Science major at Drexel University, specializing in Game Development and Artificial Intelligence. Since the age of 13, I’ve been driven by a passion for game development, continually honing my skills to turn this dream into reality. 
+My journey began in 2016, immersing myself in programming languages and development at infromation technologies center Mziuri, and has since evolved into a deep commitment to mastering both technical and creative aspects of game design. 
+My academic focus at Drexel allows me to integrate advanced AI techniques with game programming, equipping me to create innovative, interactive experiences that push the boundaries of gaming technology.
